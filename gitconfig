@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = lou.tt@hotmail.fr
+	name = Louise Tanter
